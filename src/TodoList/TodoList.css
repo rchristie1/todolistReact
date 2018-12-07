@@ -1,0 +1,13 @@
+.list-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.list-group-item {
+    margin-bottom: 8px;
+}
+
+.list-group-item, a {
+    text-decoration: none;
+    color: cadetblue;
+}
