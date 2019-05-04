@@ -59,8 +59,6 @@ class TodoListFull extends Component {
         this.state = {
           data: []
         }
-        // FireBase
-        // this.apiUrl = 'https://todolist-17b04.firebaseio.com/'
 
         // JSON Placeholder 
         this.apiUrl = 'https://jsonplaceholder.typicode.com/posts';
